@@ -11,3 +11,5 @@
 
 ## Использование
 Пример: python3 osint_tool.py "phys_pudge"
+
+<img width="625" alt="изображение" src="https://github.com/user-attachments/assets/f7b01047-38c0-493d-9728-1ab3c1e3bf05" />
